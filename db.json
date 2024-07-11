@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "DAUERHAFT",
+      "description": "DAUERHAFT Smart Mobile Phone, 512MB 4GB 5.8 inch HD Screen 960x480 MTK657 Processor HD Camera Dual Card Dual Standby Smartphone,for Android 4.4 Blue",
+      "price": 14000,
+      "image": "https://m.media-amazon.com/images/I/71WlZWwsJvL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Xiaomi",
+      "description": "Xiaomi 13T Pro 5G 1TB ROM 16GB RAM Factory Unlocked (GSM Only | No CDMA - not Compatible with Verizon/Sprint) Global Mobile Cell Phone - Black",
+      "price": 70000,
+      "image": "https://m.media-amazon.com/images/I/517TUkgdkmL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "iPhone XS Max",
+      "description": "Released in 2018, the iPhone XS Max was the first plus-sized iPhone to have an edge-to-edge Super Retina display. Measuring 6.5” with a staggering resolution of 1242 x 2688 pixels at a pixel density of 458 pixels per inch (ppi), it set a new benchmark for iPhone displays",
+      "price": 25000,
+      "image": "https://www.ineedamobile.com/wp-content/uploads/2019/03/iphone-xs-max.png"
+    },
+    {
+      "id": "4",
+      "name": "iPhone 6s",
+      "description": "iPhone 6s 128GB Space Gray (Unlocked) Used Grade B",
+      "price": 6500,
+      "image": "https://i5.walmartimages.com/seo/iPhone-6s-128GB-Space-Gray-Unlocked-Used-Grade-B_3e08365f-405b-481a-9ffb-a0c11f66d2e7.1db37dea3124b96512aad9346dd18694.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Sony Xperia XZ",
+      "description": "Sony Mobile Sony Xperia XZ 32 GB Smartphone, 5.2'' LCD Full HD 1080 x 1920, 3 GB RAM, Android 6.0 Marshmallow, 4G, Black",
+      "price": 32012,
+      "image": "https://i5.walmartimages.com/seo/Sony-Mobile-Sony-Xperia-XZ-32-GB-Smartphone-5-2-LCD-Full-HD-1080-x-1920-3-GB-RAM-Android-6-0-Marshmallow-4G-Black_7adaf7b4-fa15-4a9b-a246-2f857d4d45c0.0d1aeb3e01bf74e8ec2bbdda521f310e.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy S20",
+      "description": "Samsung Galaxy S20 FE 5G 128GB Factory Unlocked Cellphone",
+      "price": 30258,
+      "image": "https://i5.walmartimages.com/asr/e05cebd8-34bd-4bd0-8aac-bb7afc458c65.e6123281e6413d931aee071c38c370c9.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "SAMSUNG Galaxy S20",
+      "description": "SAMSUNG Galaxy S20 Plus 5G: Pro-Grade Camera, Fast Charging, Immersive Display",
+      "price": 42052,
+      "image": "https://m.media-amazon.com/images/I/711iDBtAZcL._AC_SL1425_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Samsung Galaxy A8 Star",
+      "description": "Samsung Galaxy A8 Star SM-G885FDS 64GB4GB Unlocked GSM International Version - Black",
+      "price": 45000,
+      "image": "https://m.media-amazon.com/images/I/61F5WIQMg+L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "9",
+      "name": "SAMSUNG Galaxy S10 ",
+      "description": "SAMSUNG Galaxy S10 5G (256GB, 8GB RAM) 6.7'' AMOLED, Snapdragon 855, IP68 Water Resistant, 5G Volte GSM T-Mobile Unlocked (AT&T, Metro, Straight Talk, Cricket) 4500mAh Battery G977T (Crown Silver)",
+      "price": 10354,
+      "image": "https://m.media-amazon.com/images/I/41fFJx7T4xL._AC_SR400,400_.jpg"
+    },
+    {
+      "id": "10",
+      "name": "SAMSUNG Galaxy S24",
+      "description": "SAMSUNG Galaxy S24+ Plus Cell Phone, 512GB AI Smartphone, Unlocked Android, 50MP Camera, Fastest Processor, Long Battery Life, US Version, 2024, Onyx Black",
+      "price": 28546,
+      "image": "https://m.media-amazon.com/images/I/71NngboUC6L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "11",
+      "name": "DOOGEE N55 PRO ",
+      "description": "DOOGEE N55 PRO Cell Phone,Android 14 Smartphone,12GB+256GB,6.56'' HD+,13MP Camera Android Phone,5150mAh Battery Mobile Phones,Face Unlock/OTG Black",
+      "price": 55315,
+      "image": "https://m.media-amazon.com/images/I/61aQVh1+SYL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "SAMSUNG Galaxy S10",
+      "description": "SAMSUNG Galaxy S10 Factory Unlocked Phone with 128GB , Prism Blue with Tab S5e 10.5 Black 64GB Unlocked",
+      "price": 75279,
+      "image": "https://m.media-amazon.com/images/I/61AbeVjgb7L._AC_SL1200_.jpg"
+    }
+  ],
+  "cart": []
+}
